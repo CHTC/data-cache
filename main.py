@@ -51,6 +51,9 @@ def main():
     if not htcss_user_registry_check(df):
         raise Exception("Some rows have invalid latitude and longitude")
 
+    if not check_update_has_more_or_equal(df):
+        raise Exception("The updated file has less rows than the previous one")
+
     df.to_csv(DATA_DIR + FILE_NAME, index=False)
 
 
@@ -58,6 +61,12 @@ def htcss_user_registry_check(df: pd.DataFrame):
     """Returns True if all the rows have a valid latitude and longitude"""
     return not any(df['Latitude'].isna()) and not any(df['Longitude'].isna())
 
+
+def check_update_has_more_or_equal(df: pd.DataFrame):
+    """Returns True if the updated file has more or equal rows than the previous one"""
+
+    previous_df = pd.read_csv(DATA_DIR + FILE_NAME)
+    return len(df) >= len(previous_df)
 
 if __name__ == "__main__":
     main()

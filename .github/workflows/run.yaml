@@ -26,7 +26,7 @@ jobs:
 
       - name: execute py script # run main.py
         env:
-          API_KEY: ${{RADARIO_API_KEY}}
+          API_KEY: ${{ secrets.RADARIO_API_KEY }}
         run: python main.py
 
       - name: push data files

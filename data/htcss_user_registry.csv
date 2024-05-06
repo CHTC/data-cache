@@ -78,7 +78,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 12:58:50,San Diego,CA,United States,USGS,32.72793,-117.15529
 5/31/2023 13:01:58,Berkeley,California,United States,KBase @ LBNL,37.865832,-122.297864
 5/31/2023 13:08:05,Upton,NY,United States,Brookhaven National Laboratory,40.86954,-72.88677
-5/31/2023 13:14:50,La Crosse,WI,United States,,43.807519,-91.240304
+5/31/2023 13:14:50,La Crosse,WI,United States,,48.165272,-103.638075
 5/31/2023 13:27:04,Madison,Wisconsin,United States,Compact Muon Solenoid Tier-2 Compute Center in Wisconsin,43.081309,-89.395609
 5/31/2023 13:37:20,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - CIBioFi,3.43722,-76.5225
 5/31/2023 13:38:02,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - EISC,3.43722,-76.5225
@@ -87,7 +87,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 22:19:39,Tokyo,,Japan,,35.695126,139.75391
 6/1/2023 1:18:08,Oxford,Oxfordshire,United Kingdom,"Department of Physics, University of Oxford",51.740769,-1.217713
 6/1/2023 1:21:11,Mumbai,Maharashtra ,India,Tata institute of fundamental research ,19.10109,72.875449
-6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.872151,8.651994
+6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.921534,8.748549
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.063365,16.35964
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.429913,-3.669245
 6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.048678,-2.799452
@@ -100,7 +100,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/2/2023 10:38:54,Effelsberg,NRW,Germany,Max Planck Institute for Radioastronomy,50.51695,6.86891
 6/2/2023 10:43:04,,Northern Cape province,South Africa,Max Planck Institute for Radioastronomy,-29.46391,21.846696
 6/2/2023 12:14:54,Münster,,Germany,University of Münster,51.954044,7.624747
-6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.70631,9.11924
+6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.802275,9.188624
 6/8/2023 9:39:44,Cascina,Pisa,Italy,European Gravitational Observatory,43.675623,10.548637
 6/9/2023 13:25:22,Seattle,WA,United States,"CHSCC, CHRU, and TIAL (three different groups)",47.60621,-122.33207
 9/16/2023 7:42:06,Nanjing,Jiangsu,China,Nanjing University of Posts and Telecommunications,32.044972,118.773596

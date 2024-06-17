@@ -6,7 +6,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/19/2023 17:02:06,,,Australia,,-23.992438,134.050443
 5/19/2023 17:07:01,Madison,WI,United States,UW-Madison CHTC,43.07305,-89.40123
 5/24/2023 15:23:28,Bonn,Northrhine-Westfalia,Germany,University of Bonn,50.724104,7.114887
-5/24/2023 15:26:38,Socorro,New Mexico,United States,National Radio Astronomy Observatory,34.50034,-106.00085
+5/24/2023 15:26:38,Socorro,New Mexico,United States,National Radio Astronomy Observatory,34.0584,-106.89142
 5/24/2023 15:28:48,Torrance,CA,United States,"Dynamic Research, Inc.",33.83585,-118.34063
 5/24/2023 15:32:42,Milwaukee,Wisconsin,United States,University of Wisconsin - Milwaukee,43.0389,-87.90647
 5/24/2023 15:34:31,Moshi,Kilimanjaro ,Tanzania,Kilimanjaro Clinical Research Institute (KCRI),-3.35,37.33333
@@ -87,7 +87,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 22:19:39,Tokyo,,Japan,,35.695126,139.75391
 6/1/2023 1:18:08,Oxford,Oxfordshire,United Kingdom,"Department of Physics, University of Oxford",51.740769,-1.217713
 6/1/2023 1:21:11,Mumbai,Maharashtra ,India,Tata institute of fundamental research ,19.10109,72.875449
-6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.872151,8.651994
+6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.921534,8.748549
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.063365,16.35964
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.429913,-3.669245
 6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.048678,-2.799452

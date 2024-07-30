@@ -16,7 +16,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/24/2023 15:58:54,Baton Rouge,Lousiania,United States,LIGO laboratory,30.44332,-91.18747
 5/24/2023 15:59:22,Manchester,greater Manchester,United Kingdom,The University of Manchester,53.556417,-2.298838
 5/24/2023 16:00:09,Pasadena,California,United States,LIGO laboratory,34.14778,-118.14452
-5/24/2023 16:03:46,State College,Pennsylvania,United States,Penn State University - LIGO,40.79339,-77.86
+5/24/2023 16:03:46,State College,Pennsylvania,United States,Penn State University - LIGO,40.81439,-77.81723
 5/24/2023 16:38:57,Urbana,IL,United States,DESDM NCSA,40.11059,-88.20727
 5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,28.46824,-16.25462
 5/24/2023 16:53:42,Greenwich,Connecticut,United States,,41.02649,-73.62846
@@ -77,7 +77,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 12:58:35,Sacramento,CA,United States,USGS,38.58157,-121.4944
 5/31/2023 12:58:50,San Diego,CA,United States,USGS,32.71571,-117.16472
 5/31/2023 13:01:58,Berkeley,California,United States,KBase @ LBNL,37.87159,-122.27275
-5/31/2023 13:08:05,Upton,NY,United States,Brookhaven National Laboratory,37.40781,-92.16993
+5/31/2023 13:08:05,Upton,NY,United States,Brookhaven National Laboratory,39.80537,-77.80666
 5/31/2023 13:14:50,La Crosse,WI,United States,,43.80136,-91.23958
 5/31/2023 13:27:04,Madison,Wisconsin,United States,Compact Muon Solenoid Tier-2 Compute Center in Wisconsin,43.07305,-89.40123
 5/31/2023 13:37:20,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - CIBioFi,3.43722,-76.5225
@@ -100,7 +100,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/2/2023 10:38:54,Effelsberg,NRW,Germany,Max Planck Institute for Radioastronomy,50.51695,6.86891
 6/2/2023 10:43:04,,Northern Cape province,South Africa,Max Planck Institute for Radioastronomy,-29.46391,21.846696
 6/2/2023 12:14:54,Münster,,Germany,University of Münster,51.954044,7.624747
-6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.70631,9.11924
+6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.802275,9.188624
 6/8/2023 9:39:44,Cascina,Pisa,Italy,European Gravitational Observatory,43.675623,10.548637
 6/9/2023 13:25:22,Seattle,WA,United States,"CHSCC, CHRU, and TIAL (three different groups)",47.60621,-122.33207
 9/16/2023 7:42:06,Nanjing,Jiangsu,China,Nanjing University of Posts and Telecommunications,32.044972,118.773596

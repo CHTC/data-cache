@@ -10,7 +10,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/24/2023 15:28:48,Torrance,CA,United States,"Dynamic Research, Inc.",33.83585,-118.34063
 5/24/2023 15:32:42,Milwaukee,Wisconsin,United States,University of Wisconsin - Milwaukee,43.0389,-87.90647
 5/24/2023 15:34:31,Moshi,Kilimanjaro ,Tanzania,Kilimanjaro Clinical Research Institute (KCRI),-3.35,37.33333
-5/24/2023 15:35:54,Accra,Accra Region,Ghana,Noguchi Memorial Institute for Medical Research,5.545935,-0.210089
+5/24/2023 15:35:54,Accra,Accra Region,Ghana,Noguchi Memorial Institute for Medical Research,5.55602,-0.1969
 5/24/2023 15:44:57,Atlanta,GA,United States,Georgia Institute of Technology - PACE,33.749,-84.38798
 5/24/2023 15:58:15,Hanford,Washington,United States,LIGO laboratory,38.89511,-77.03637
 5/24/2023 15:58:54,Baton Rouge,Lousiania,United States,LIGO laboratory,30.44332,-91.18747
@@ -20,10 +20,10 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/24/2023 16:38:57,Urbana,IL,United States,DESDM NCSA,40.11059,-88.20727
 5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,28.46824,-16.25462
 5/24/2023 16:53:42,Greenwich,Connecticut,United States,,41.02649,-73.62846
-5/24/2023 17:26:48,Bonn,Northrhine Westfalia,Germany,University of Bonn,50.724104,7.114887
+5/24/2023 17:26:48,Bonn,Northrhine Westfalia,Germany,University of Bonn,50.73438,7.09549
 5/24/2023 20:01:53,Daejeon,,"Korea, South",KISTI-GSDC,36.353937,127.381337
 5/24/2023 20:02:30,Vancouver,BC,Canada,,49.2819,-123.11874
-5/24/2023 20:13:13,Hsinchu,,Taiwan,National Center for High-performance Computing (NCHC),24.697028,121.164609
+5/24/2023 20:13:13,Hsinchu,,Taiwan,National Center for High-performance Computing (NCHC),24.80361,120.96861
 5/24/2023 20:53:27,Melbourne,Victoria,Australia,AEC,-37.825071,144.978682
 5/24/2023 22:22:30,Haifa,,Israel,Technion - Israel Institute of Technology,32.81841,34.9885
 5/24/2023 22:23:20,Tel Aviv,,Israel,Tel Aviv University,32.08088,34.78057
@@ -77,23 +77,23 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 12:58:35,Sacramento,CA,United States,USGS,38.58157,-121.4944
 5/31/2023 12:58:50,San Diego,CA,United States,USGS,32.71571,-117.16472
 5/31/2023 13:01:58,Berkeley,California,United States,KBase @ LBNL,37.87159,-122.27275
-5/31/2023 13:08:05,Upton,NY,United States,Brookhaven National Laboratory,37.99066,-81.4265
+5/31/2023 13:08:05,Upton,NY,United States,Brookhaven National Laboratory,39.80537,-77.80666
 5/31/2023 13:14:50,La Crosse,WI,United States,,43.80136,-91.23958
 5/31/2023 13:27:04,Madison,Wisconsin,United States,Compact Muon Solenoid Tier-2 Compute Center in Wisconsin,43.07305,-89.40123
 5/31/2023 13:37:20,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - CIBioFi,3.43722,-76.5225
 5/31/2023 13:38:02,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - EISC,3.43722,-76.5225
 5/31/2023 15:08:36,Cardiff,Wales,United Kingdom,Cardiff University Gravity Exploration Institute,51.501018,-3.192626
 5/31/2023 17:01:08,Perth,Western Australia,Australia,INTERA,-31.960773,115.834088
-5/31/2023 22:19:39,Tokyo,,Japan,,35.695126,139.75391
+5/31/2023 22:19:39,Tokyo,,Japan,,35.6895,139.69171
 6/1/2023 1:18:08,Oxford,Oxfordshire,United Kingdom,"Department of Physics, University of Oxford",51.740769,-1.217713
 6/1/2023 1:21:11,Mumbai,Maharashtra ,India,Tata institute of fundamental research ,19.10109,72.875449
 6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.872151,8.651994
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.063365,16.35964
-6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.429913,-3.669245
+6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.4165,-3.70256
 6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.048678,-2.799452
 6/1/2023 5:16:47,Bristol,,United Kingdom,University of Bristol,51.474771,-2.597087
 6/1/2023 10:20:58,Amsterdam,Noord Holland,Netherlands,Nikhef,52.37243,4.89973
-6/1/2023 14:58:19,Wellington,,New Zealand,GNS Science,-41.281385,175.32902
+6/1/2023 14:58:19,Wellington,,New Zealand,GNS Science,-41.28664,174.77557
 6/1/2023 17:07:52,Norman,OK,United States,University of Oklahoma,35.22257,-97.43948
 6/1/2023 18:22:34,Noumea,South Province,New Caledonia,The Pacific Community (SPC),-22.27631,166.4572
 6/2/2023 6:36:24,Beer Sheva,,Israel,Ben-Gurion University of the Negev,31.25181,34.7913
@@ -111,13 +111,13 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 9/27/2023 9:31:09,Aachen,NRW,Germany,,50.774209,6.08443
 11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.244023,28.41156
 12/9/2023 18:57:52,,,Saudi Arabia,,23.806678,44.700847
-12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,33.88432,35.501527
-1/31/2024 11:22:51,,Coquimbo,Chile,,-30.650788,-70.92578
+12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,33.89332,35.50157
+1/31/2024 11:22:51,,Coquimbo,Chile,,-29.95332,-71.33947
 2/29/2024 12:56:28,Orsay,,France,GRIF,48.698709,2.19291
 2/29/2024 12:57:04,Paris,,France,GRIF,48.858705,2.342865
-2/29/2024 12:57:57,Lumigny,Bouches du Rhone,France,CPPM,43.540742,5.13954
+2/29/2024 12:57:57,Lumigny,Bouches du Rhone,France,CPPM,43.52366,5.4245
 2/29/2024 13:01:31,Saclay,,France,GRIF,48.723082,2.146695
-2/29/2024 13:02:02,Annecy,,France,LAPP,45.87727,6.191365
+2/29/2024 13:02:02,Annecy,,France,LAPP,45.8907,6.17903
 2/29/2024 13:02:29,Strasbourg,,France,IPHC,48.570721,7.758374
 2/29/2024 13:03:09,Clermont Ferrand,,France,LPC,45.784832,3.114432
 3/9/2024 8:19:24,Ho Chi Minh,Gò Vấp,Vietnam,Nhà Riêng,10.75,106.66667

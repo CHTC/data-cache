@@ -87,7 +87,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 22:19:39,Tokyo,,Japan,,35.6895,139.69171
 6/1/2023 1:18:08,Oxford,Oxfordshire,United Kingdom,"Department of Physics, University of Oxford",51.740769,-1.217713
 6/1/2023 1:21:11,Mumbai,Maharashtra ,India,Tata institute of fundamental research ,19.10109,72.875449
-6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.872151,8.651994
+6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.921534,8.748549
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.063365,16.35964
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.4165,-3.70256
 6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.048678,-2.799452
@@ -143,4 +143,4 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 9/4/2024 15:00:41,Elmhurst,Illinois,United States,Elmhurst University,41.89947,-87.94034
 9/5/2024 2:09:54,Ooty,Tamil Nadu,India,"The GRAPES-3 experiment, Cosmic Ray Laboratory, Tata Institute of Fundamental Research",11.403713,76.708276
 9/14/2024 3:00:06,shanghai,shanghai,China,,31.22222,121.45806
-9/18/2024 12:28:38,st. john's,"newfoundland, canada",Canada,DIAG lab at MUN,38.672381,-0.816309
+9/18/2024 12:28:38,st. john's,"newfoundland, canada",Canada,DIAG lab at MUN,-15.598419,-51.262687

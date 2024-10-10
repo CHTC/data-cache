@@ -100,7 +100,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/2/2023 10:38:54,Effelsberg,NRW,Germany,Max Planck Institute for Radioastronomy,50.51695,6.86891
 6/2/2023 10:43:04,,Northern Cape province,South Africa,Max Planck Institute for Radioastronomy,-29.46391,21.846696
 6/2/2023 12:14:54,Münster,,Germany,University of Münster,51.954044,7.624747
-6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.802275,9.188624
+6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.70631,9.11924
 6/8/2023 9:39:44,Cascina,Pisa,Italy,European Gravitational Observatory,43.675623,10.548637
 6/9/2023 13:25:22,Seattle,WA,United States,"CHSCC, CHRU, and TIAL (three different groups)",47.60621,-122.33207
 9/16/2023 7:42:06,Nanjing,Jiangsu,China,Nanjing University of Posts and Telecommunications,32.044972,118.773596
@@ -143,6 +143,6 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 9/4/2024 15:00:41,Elmhurst,Illinois,United States,Elmhurst University,41.89947,-87.94034
 9/5/2024 2:09:54,Ooty,Tamil Nadu,India,"The GRAPES-3 experiment, Cosmic Ray Laboratory, Tata Institute of Fundamental Research",11.403713,76.708276
 9/14/2024 3:00:06,shanghai,shanghai,China,,31.22222,121.45806
-9/18/2024 12:28:38,st. john's,"newfoundland, canada",Canada,DIAG lab at MUN,38.672381,-0.816309
+9/18/2024 12:28:38,st. john's,"newfoundland, canada",Canada,DIAG lab at MUN,-15.598419,-51.262687
 9/20/2024 20:42:55,Oak Ridge,TN,United States,ORNL: ALICE-USA T2 Site,36.01036,-84.26964
 9/30/2024 5:20:24,Darmstadt,,Germany,EUMETSAT,49.872151,8.651994

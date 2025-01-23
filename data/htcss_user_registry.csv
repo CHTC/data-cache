@@ -62,7 +62,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/27/2023 1:01:50,Herzliya,,Israel,,32.16627,34.82536
 5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-31.3096,18.357
 5/27/2023 7:18:26,Bari,Puglia,Italy,INFN-BARI,41.111267,16.861202
-5/28/2023 7:49:36,Piscataway,New  Jersey,United States,Rutgers Dept. of Physics CMS Tier 3,40.16706,-74.49987
+5/28/2023 7:49:36,Piscataway,New  Jersey,United States,Rutgers Dept. of Physics CMS Tier 3,40.57147,-74.448632
 5/28/2023 10:11:41,Zeuthen,Brandenburg,Germany,"DESY, Zeuthen",52.342666,13.618082
 5/29/2023 3:59:12,VILLEURBANNE,RHONE-ALPES,France,IN2P3 Computing Center,45.771418,4.88534
 5/30/2023 3:45:30,Hamburg-Bahrenfeld,Hamburg,Germany,DESY-HH: National Analysis Facility and Grid Clusters,47.535927,7.606593
@@ -77,7 +77,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 12:58:35,Sacramento,CA,United States,USGS,38.58157,-121.4944
 5/31/2023 12:58:50,San Diego,CA,United States,USGS,32.71571,-117.16472
 5/31/2023 13:01:58,Berkeley,California,United States,KBase @ LBNL,37.87159,-122.27275
-5/31/2023 13:08:05,Upton,NY,United States,Brookhaven National Laboratory,39.80537,-77.80666
+5/31/2023 13:08:05,Upton,NY,United States,Brookhaven National Laboratory,37.40781,-92.16993
 5/31/2023 13:14:50,La Crosse,WI,United States,,43.80136,-91.23958
 5/31/2023 13:27:04,Madison,Wisconsin,United States,Compact Muon Solenoid Tier-2 Compute Center in Wisconsin,43.07305,-89.40123
 5/31/2023 13:37:20,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - CIBioFi,3.43722,-76.5225
@@ -139,7 +139,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 7/11/2024 17:10:20,Boulder,Colorado,United States,University of Colorado Boulder,40.01499,-105.27055
 8/29/2024 20:43:04,Limeira,São Paulo,Brazil,Faculdade de Tecnologia - UNICAMP,-22.576428,-47.409184
 9/3/2024 6:13:31,Effelsberg,NRW,Germany,MAX PLANCK INSTITUTE for Radio Astronomy,50.51695,6.86891
-9/4/2024 0:26:51,Nakhon Ratchasima,Nakhon Ratchasima,Thailand,Suranaree University of Technology,14.95678,102.08933
+9/4/2024 0:26:51,Nakhon Ratchasima,Nakhon Ratchasima,Thailand,Suranaree University of Technology,14.97066,102.10196
 9/4/2024 15:00:41,Elmhurst,Illinois,United States,Elmhurst University,41.89947,-87.94034
 9/5/2024 2:09:54,Ooty,Tamil Nadu,India,"The GRAPES-3 experiment, Cosmic Ray Laboratory, Tata Institute of Fundamental Research",11.403713,76.708276
 9/14/2024 3:00:06,shanghai,shanghai,China,,31.22222,121.45806

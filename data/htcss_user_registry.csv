@@ -2,10 +2,10 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/19/2023 13:46:54,Madison,Wisconsin,United States,Morgridge,43.07305,-89.40123
 5/19/2023 13:56:36,Lincoln,Nebraska,United States,,40.8,-96.66696
 5/19/2023 15:20:49,Madison,Wisconsin,United States,,43.07305,-89.40123
-5/19/2023 16:16:27,Frankfurt,,Germany,,50.041821,8.584764
-5/19/2023 17:02:06,,,Australia,,-23.992438,134.050443
+5/19/2023 16:16:27,Frankfurt,,Germany,,50.11552,8.68417
+5/19/2023 17:02:06,,,Australia,,-25.0,135.0
 5/19/2023 17:07:01,Madison,WI,United States,UW-Madison CHTC,43.07305,-89.40123
-5/24/2023 15:23:28,Bonn,Northrhine-Westfalia,Germany,University of Bonn,50.724104,7.114887
+5/24/2023 15:23:28,Bonn,Northrhine-Westfalia,Germany,University of Bonn,50.73438,7.09549
 5/24/2023 15:26:38,Socorro,New Mexico,United States,National Radio Astronomy Observatory,34.0584,-106.89142
 5/24/2023 15:28:48,Torrance,CA,United States,"Dynamic Research, Inc.",33.83585,-118.34063
 5/24/2023 15:32:42,Milwaukee,Wisconsin,United States,University of Wisconsin - Milwaukee,43.0389,-87.90647
@@ -14,62 +14,62 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/24/2023 15:44:57,Atlanta,GA,United States,Georgia Institute of Technology - PACE,33.749,-84.38798
 5/24/2023 15:58:15,Hanford,Washington,United States,LIGO laboratory,46.58375,-119.3878
 5/24/2023 15:58:54,Baton Rouge,Lousiania,United States,LIGO laboratory,30.44332,-91.18747
-5/24/2023 15:59:22,Manchester,greater Manchester,United Kingdom,The University of Manchester,53.556417,-2.298838
+5/24/2023 15:59:22,Manchester,greater Manchester,United Kingdom,The University of Manchester,51.59182805,-2.983756275
 5/24/2023 16:00:09,Pasadena,California,United States,LIGO laboratory,34.14778,-118.14452
 5/24/2023 16:03:46,State College,Pennsylvania,United States,Penn State University - LIGO,40.79339,-77.86
 5/24/2023 16:38:57,Urbana,IL,United States,DESDM NCSA,40.11059,-88.20727
-5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,28.46824,-16.25462
+5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,28.44619545,-16.29607035
 5/24/2023 16:53:42,Greenwich,Connecticut,United States,,41.02649,-73.62846
 5/24/2023 17:26:48,Bonn,Northrhine Westfalia,Germany,University of Bonn,50.73438,7.09549
-5/24/2023 20:01:53,Daejeon,,"Korea, South",KISTI-GSDC,36.353937,127.381337
-5/24/2023 20:02:30,Vancouver,BC,Canada,,49.2819,-123.11874
+5/24/2023 20:01:53,Daejeon,,"Korea, South",KISTI-GSDC,36.34913,127.38493
+5/24/2023 20:02:30,Vancouver,BC,Canada,,49.24966,-123.11934
 5/24/2023 20:13:13,Hsinchu,,Taiwan,National Center for High-performance Computing (NCHC),24.80361,120.96861
-5/24/2023 20:53:27,Melbourne,Victoria,Australia,AEC,-37.825071,144.978682
+5/24/2023 20:53:27,Melbourne,Victoria,Australia,AEC,-37.814,144.96332
 5/24/2023 22:22:30,Haifa,,Israel,Technion - Israel Institute of Technology,32.81841,34.9885
 5/24/2023 22:23:20,Tel Aviv,,Israel,Tel Aviv University,32.08088,34.78057
-5/24/2023 23:18:22,Budapest,,Hungary,Wigner RCP,47.516581,19.092281
-5/24/2023 23:48:56,Cerdanyola del Vallès,Barcelona,Spain,PIC,41.493535,2.137145
-5/25/2023 0:02:18,Hannover,Lower Saxony,Germany,,52.379952,9.787455
-5/25/2023 0:56:17,Zeuthen,Brandenburg,Germany,DESY Zeuthen,52.342666,13.618082
-5/25/2023 1:34:59,Linz,Upper Austria,Austria,,48.284136,14.306943
-5/25/2023 1:38:34,Saarbrücken,Saarland,Germany,Saarland University,49.234378,6.978198
-5/25/2023 1:53:45,Kolkata,West Bengal,India,VECC,22.608067,88.419453
-5/25/2023 2:05:53,Leuven,Vlaams Brabant,Belgium,KULeuven,50.881011,4.710309
-5/25/2023 2:06:25,Gent,Oost-Vlaanderen,Belgium,KULeuven,51.057496,3.732703
-5/25/2023 2:42:38,Skipton,North Yorkshire,United Kingdom,JBA Consulting,53.960298,-2.018251
-5/25/2023 2:46:17,Aachen,,Germany,RWTH Physics Dep.,50.774209,6.08443
-5/25/2023 3:10:23,Oxford,Oxfordshire,United Kingdom,STFC,51.740769,-1.217713
-5/25/2023 3:36:18,Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,IAP,49.078381,8.395605
-5/25/2023 4:11:10,Graz,Styria,Austria,Graz University of Technology - Institute of Theoretical and Computational Physics,47.128773,15.419607
-5/25/2023 4:31:43,Pune,Maharshatra,India,,18.54465,73.840523
-5/25/2023 5:00:18,Potsdam-Golm,,Germany,MPI for Gravitational Physics (Albert Einstein Institute),53.56405,13.56304
+5/24/2023 23:18:22,Budapest,,Hungary,Wigner RCP,47.49835,19.04045
+5/24/2023 23:48:56,Cerdanyola del Vallès,Barcelona,Spain,PIC,41.49109,2.14079
+5/25/2023 0:02:18,Hannover,Lower Saxony,Germany,,52.37052,9.73322
+5/25/2023 0:56:17,Zeuthen,Brandenburg,Germany,DESY Zeuthen,52.34481,13.61197
+5/25/2023 1:34:59,Linz,Upper Austria,Austria,,48.30639,14.28611
+5/25/2023 1:38:34,Saarbrücken,Saarland,Germany,Saarland University,49.23262,7.00982
+5/25/2023 1:53:45,Kolkata,West Bengal,India,VECC,22.56263,88.36304
+5/25/2023 2:05:53,Leuven,Vlaams Brabant,Belgium,KULeuven,50.87959,4.70093
+5/25/2023 2:06:25,Gent,Oost-Vlaanderen,Belgium,KULeuven,51.05,3.71667
+5/25/2023 2:42:38,Skipton,North Yorkshire,United Kingdom,JBA Consulting,54.00300676861469,-1.5358715469111883
+5/25/2023 2:46:17,Aachen,,Germany,RWTH Physics Dep.,50.77664,6.08342
+5/25/2023 3:10:23,Oxford,Oxfordshire,United Kingdom,STFC,51.75222,-1.25596
+5/25/2023 3:36:18,Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,IAP,49.0953,8.39056
+5/25/2023 4:11:10,Graz,Styria,Austria,Graz University of Technology - Institute of Theoretical and Computational Physics,47.06667,15.45
+5/25/2023 4:31:43,Pune,Maharshatra,India,,18.63505269517908,73.6686190888504
+5/25/2023 5:00:18,Potsdam-Golm,,Germany,MPI for Gravitational Physics (Albert Einstein Institute),52.39886,13.06566
 5/25/2023 7:05:21,Ann Arbor,Michigan,United States,ATLAS Great Lakes Tier-2 @ UMich,42.27756,-83.74088
 5/25/2023 7:05:44,East Lansing,Michigan,United States,ATLAS Great Lakes Tier-2 @ MSU,42.73698,-84.48387
-5/25/2023 7:42:12,Québec,Quebec,Canada,,46.855987,-71.276271
-5/25/2023 7:47:36,Brussels,,Belgium,ULB-VUB,50.733183,4.436117
+5/25/2023 7:42:12,Québec,Quebec,Canada,,46.81228,-71.21454
+5/25/2023 7:47:36,Brussels,,Belgium,ULB-VUB,50.85045,4.34878
 5/25/2023 8:34:32,Notre Dame,IN,United States,University of Notre Dame,41.70019,-86.23793
 5/25/2023 9:02:05,Blacksburg,Virginia,United States,Virginia Tech,37.22957,-80.41394
 5/25/2023 9:47:48,Batavia,Illinois,United States,Fermilab,41.85003,-88.31257
 5/25/2023 11:12:07,Tucson,AZ,United States,"CyVerse, University of Arizona",32.22174,-110.92648
 5/25/2023 13:14:37,Bala Cynwyd,Pennsylvania,United States,SIG,40.00761,-75.23407
 5/25/2023 15:28:02,Indianapolis,IN,United States,,39.76838,-86.15804
-5/26/2023 2:40:05,Genoa,Liguria,Italy,INFN,44.42332,8.879033
+5/26/2023 2:40:05,Genoa,Liguria,Italy,INFN,44.40478,8.94439
 5/26/2023 12:24:18,Bellingham,Washington,United States,Western Washington University,48.75955,-122.48822
 5/26/2023 15:56:16,East Lansing,Michigan,United States,Michigan State University High Energy Physics,42.73698,-84.48387
-5/26/2023 16:04:33,Bologna,Emilia Romagna,Italy,INFN-CNAF,44.503639,11.344398
-5/26/2023 16:56:18,DAEJEON,DAEJEON,"Korea, South",KISTI,36.353937,127.381337
+5/26/2023 16:04:33,Bologna,Emilia Romagna,Italy,INFN-CNAF,44.49381,11.33875
+5/26/2023 16:56:18,DAEJEON,DAEJEON,"Korea, South",KISTI,36.34913,127.38493
 5/27/2023 0:51:12,Los Angeles,CA,United States,UCLA,34.05223,-118.24368
 5/27/2023 1:01:50,Herzliya,,Israel,,32.16627,34.82536
-5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-31.3096,18.357
-5/27/2023 7:18:26,Bari,Puglia,Italy,INFN-BARI,41.111267,16.861202
+5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.972586732612672,22.126268666761153
+5/27/2023 7:18:26,Bari,Puglia,Italy,INFN-BARI,41.12066,16.86982
 5/28/2023 7:49:36,Piscataway,New  Jersey,United States,Rutgers Dept. of Physics CMS Tier 3,40.49927,-74.39904
-5/28/2023 10:11:41,Zeuthen,Brandenburg,Germany,"DESY, Zeuthen",52.342666,13.618082
-5/29/2023 3:59:12,VILLEURBANNE,RHONE-ALPES,France,IN2P3 Computing Center,45.771418,4.88534
-5/30/2023 3:45:30,Hamburg-Bahrenfeld,Hamburg,Germany,DESY-HH: National Analysis Facility and Grid Clusters,47.535927,7.606593
-5/30/2023 4:13:31,Dubna,,Russia,JINR,56.75546,37.145905
+5/28/2023 10:11:41,Zeuthen,Brandenburg,Germany,"DESY, Zeuthen",52.34481,13.61197
+5/29/2023 3:59:12,VILLEURBANNE,RHONE-ALPES,France,IN2P3 Computing Center,45.76601,4.8795
+5/30/2023 3:45:30,Hamburg-Bahrenfeld,Hamburg,Germany,DESY-HH: National Analysis Facility and Grid Clusters,53.55073,9.99302
+5/30/2023 4:13:31,Dubna,,Russia,JINR,56.74049,37.18648
 5/30/2023 11:16:47,lemont,illinois,United States,KBase at Argonne National Lab,41.67364,-88.00173
-5/31/2023 12:45:31,Hannover,Niedersachsen,Germany,MPI for Gravitational Physics (Albert Einstein Institute),52.379952,9.787455
-5/31/2023 12:49:36,Montréal,Québec,Canada,,45.572744,-73.586295
+5/31/2023 12:45:31,Hannover,Niedersachsen,Germany,MPI for Gravitational Physics (Albert Einstein Institute),52.37052,9.73322
+5/31/2023 12:49:36,Montréal,Québec,Canada,,45.50884,-73.58781
 5/31/2023 12:49:51,Farmington,Connecticut,United States,"UConn Health, Center for Cell Analysis & Modeling",41.71982,-72.83204
 5/31/2023 12:53:41,Pasadena,California,United States,Caltech,34.14778,-118.14452
 5/31/2023 12:55:38,Madison,WI,United States,USGS,43.07305,-89.40123
@@ -82,54 +82,54 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/31/2023 13:27:04,Madison,Wisconsin,United States,Compact Muon Solenoid Tier-2 Compute Center in Wisconsin,43.07305,-89.40123
 5/31/2023 13:37:20,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - CIBioFi,3.43722,-76.5225
 5/31/2023 13:38:02,Santiago de Cali,Valle del Cauca,Colombia,Universidad del Valle - EISC,3.43722,-76.5225
-5/31/2023 15:08:36,Cardiff,Wales,United Kingdom,Cardiff University Gravity Exploration Institute,51.501018,-3.192626
-5/31/2023 17:01:08,Perth,Western Australia,Australia,INTERA,-31.960773,115.834088
+5/31/2023 15:08:36,Cardiff,Wales,United Kingdom,Cardiff University Gravity Exploration Institute,51.48,-3.18
+5/31/2023 17:01:08,Perth,Western Australia,Australia,INTERA,-31.95224,115.8614
 5/31/2023 22:19:39,Tokyo,,Japan,,35.6895,139.69171
-6/1/2023 1:18:08,Oxford,Oxfordshire,United Kingdom,"Department of Physics, University of Oxford",51.740769,-1.217713
-6/1/2023 1:21:11,Mumbai,Maharashtra ,India,Tata institute of fundamental research ,19.10109,72.875449
-6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",49.921534,8.748549
-6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.063365,16.35964
+6/1/2023 1:18:08,Oxford,Oxfordshire,United Kingdom,"Department of Physics, University of Oxford",51.75222,-1.25596
+6/1/2023 1:21:11,Mumbai,Maharashtra ,India,Tata institute of fundamental research ,19.07283,72.88261
+6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",14.728458392263478,-61.01690323035479
+6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.33333,15.75
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.4165,-3.70256
-6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.048678,-2.799452
-6/1/2023 5:16:47,Bristol,,United Kingdom,University of Bristol,51.474771,-2.597087
-6/1/2023 10:20:58,Amsterdam,Noord Holland,Netherlands,Nikhef,52.37243,4.89973
+6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,53.75036732052634,-2.502866346933526
+6/1/2023 5:16:47,Bristol,,United Kingdom,University of Bristol,51.45523,-2.59665
+6/1/2023 10:20:58,Amsterdam,Noord Holland,Netherlands,Nikhef,52.37403,4.88969
 6/1/2023 14:58:19,Wellington,,New Zealand,GNS Science,-41.28664,174.77557
 6/1/2023 17:07:52,Norman,OK,United States,University of Oklahoma,35.22257,-97.43948
-6/1/2023 18:22:34,Noumea,South Province,New Caledonia,The Pacific Community (SPC),-22.27631,166.4572
+6/1/2023 18:22:34,Noumea,South Province,New Caledonia,The Pacific Community (SPC),-22.27407,166.44884
 6/2/2023 6:36:24,Beer Sheva,,Israel,Ben-Gurion University of the Negev,31.25181,34.7913
 6/2/2023 10:38:54,Effelsberg,NRW,Germany,Max Planck Institute for Radioastronomy,50.51695,6.86891
-6/2/2023 10:43:04,,Northern Cape province,South Africa,Max Planck Institute for Radioastronomy,-29.46391,21.846696
-6/2/2023 12:14:54,Münster,,Germany,University of Münster,51.954044,7.624747
-6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.802275,9.188624
-6/8/2023 9:39:44,Cascina,Pisa,Italy,European Gravitational Observatory,43.675623,10.548637
+6/2/2023 10:43:04,,Northern Cape province,South Africa,Max Planck Institute for Radioastronomy,-29.5,22.0
+6/2/2023 12:14:54,Münster,,Germany,University of Münster,51.96236,7.62571
+6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.78232,9.17702
+6/8/2023 9:39:44,Cascina,Pisa,Italy,European Gravitational Observatory,44.58601433222208,8.868779471168384
 6/9/2023 13:25:22,Seattle,WA,United States,"CHSCC, CHRU, and TIAL (three different groups)",47.60621,-122.33207
-9/16/2023 7:42:06,Nanjing,Jiangsu,China,Nanjing University of Posts and Telecommunications,32.044972,118.773596
-9/20/2023 6:52:25,Prague,Czech Republic,Czech Republic,Institute of Physics of the Czech Academy of Sciences,50.06694,14.460249
-9/20/2023 6:53:29,Prague,Czech Republic,Czech Republic,"CESNET, z. s. p. o.",50.06694,14.460249
-9/21/2023 10:18:17,Rio de Janeiro,Rio de Janeiro,Brazil,CBPF - Centro Brasileiro de Pesquisas Fisicas,-22.935024,-43.518246
-9/22/2023 7:43:16,Hamburg,Hamburg,Germany,DESY-HH,53.576158,10.007046
-9/27/2023 9:31:09,Aachen,NRW,Germany,,50.774209,6.08443
-11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.244023,28.41156
-12/9/2023 18:57:52,,,Saudi Arabia,,23.806678,44.700847
-12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,33.89332,35.50157
+9/16/2023 7:42:06,Nanjing,Jiangsu,China,Nanjing University of Posts and Telecommunications,32.06167,118.77778
+9/20/2023 6:52:25,Prague,Czech Republic,Czech Republic,Institute of Physics of the Czech Academy of Sciences,43.38391316554957,12.3987936128399
+9/20/2023 6:53:29,Prague,Czech Republic,Czech Republic,"CESNET, z. s. p. o.",43.38391316554957,12.3987936128399
+9/21/2023 10:18:17,Rio de Janeiro,Rio de Janeiro,Brazil,CBPF - Centro Brasileiro de Pesquisas Fisicas,-22.90642,-43.18223
+9/22/2023 7:43:16,Hamburg,Hamburg,Germany,DESY-HH,53.55073,9.99302
+9/27/2023 9:31:09,Aachen,NRW,Germany,,50.77664,6.08342
+11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.40082699545455,27.65626223181818
+12/9/2023 18:57:52,,,Saudi Arabia,,25.0,45.0
+12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,43.599545221080525,-1.4350660915688227
 1/31/2024 11:22:51,,Coquimbo,Chile,,-29.95332,-71.33947
-2/29/2024 12:56:28,Orsay,,France,GRIF,48.698709,2.19291
-2/29/2024 12:57:04,Paris,,France,GRIF,48.858705,2.342865
+2/29/2024 12:56:28,Orsay,,France,GRIF,47.10073,1.25154
+2/29/2024 12:57:04,Paris,,France,GRIF,48.85341,2.3488
 2/29/2024 12:57:57,Lumigny,Bouches du Rhone,France,CPPM,43.52366,5.4245
-2/29/2024 13:01:31,Saclay,,France,GRIF,48.723082,2.146695
+2/29/2024 13:01:31,Saclay,,France,GRIF,48.73083,2.17333
 2/29/2024 13:02:02,Annecy,,France,LAPP,45.8907,6.17903
-2/29/2024 13:02:29,Strasbourg,,France,IPHC,48.570721,7.758374
-2/29/2024 13:03:09,Clermont Ferrand,,France,LPC,45.784832,3.114432
-3/9/2024 8:19:24,Ho Chi Minh,Gò Vấp,Vietnam,Nhà Riêng,10.75,106.66667
-3/12/2024 8:25:23,Milano,MI,Italy,I.N.F.N. - Sezione di Milano,45.473702,9.170685
-3/23/2024 12:22:19,Milano,MI,Italy,INFN,45.473702,9.170685
+2/29/2024 13:02:29,Strasbourg,,France,IPHC,48.58392,7.74553
+2/29/2024 13:03:09,Clermont Ferrand,,France,LPC,45.77969,3.08682
+3/9/2024 8:19:24,Ho Chi Minh,Gò Vấp,Vietnam,Nhà Riêng,10.81667,106.68333
+3/12/2024 8:25:23,Milano,MI,Italy,I.N.F.N. - Sezione di Milano,45.46416,9.19199
+3/23/2024 12:22:19,Milano,MI,Italy,INFN,45.46416,9.19199
 3/25/2024 12:45:27,Madison,Wisconsin,United States,,43.07305,-89.40123
 3/26/2024 16:22:08,Farmington,CT,United States,"UConn Health, NMRbox",41.71982,-72.83204
-4/2/2024 9:12:35,Sesto Fiorentino,Florence,Italy,CERM,43.832958,11.200737
-5/30/2024 10:49:39, Zaporozhye,,Ukraine,,47.82503,35.209552
-6/1/2024 8:59:45,Mombasa,Coast,Kenya,BiaLegdz,-4.054686,39.665622
-6/19/2024 19:22:20,Kyotanabe,Kyoto,Japan,Doshisha University,34.986533,135.744161
-7/10/2024 4:52:03,Budapest,Pest,Hungary,Digic Pictures,47.516581,19.092281
+4/2/2024 9:12:35,Sesto Fiorentino,Florence,Italy,CERM,41.850249000000005,12.4616417
+5/30/2024 10:49:39, Zaporozhye,,Ukraine,,47.85167,35.11714
+6/1/2024 8:59:45,Mombasa,Coast,Kenya,BiaLegdz,-4.05466,39.66359
+6/19/2024 19:22:20,Kyotanabe,Kyoto,Japan,Doshisha University,34.8045,135.76681
+7/10/2024 4:52:03,Budapest,Pest,Hungary,Digic Pictures,47.51185645,19.2800331
 7/11/2024 15:28:30,Honolulu,Hawaii,United States,University of Hawaii,21.30694,-157.85833
 7/11/2024 15:30:00,Madison,Wisconsin,United States,"Department of Physics, University of Wisconsin-Madison",43.07305,-89.40123
 7/11/2024 15:54:18,Upton,New York,United States,,40.86954,-72.88677
@@ -137,16 +137,16 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 7/11/2024 17:08:48,Upton,New York,United States,Brookhaven National Laboratory SDCC,40.86954,-72.88677
 7/11/2024 17:09:05,Miami,Florida,United States,Florida International University,25.77427,-80.19366
 7/11/2024 17:10:20,Boulder,Colorado,United States,University of Colorado Boulder,40.01499,-105.27055
-8/29/2024 20:43:04,Limeira,São Paulo,Brazil,Faculdade de Tecnologia - UNICAMP,-22.576428,-47.409184
+8/29/2024 20:43:04,Limeira,São Paulo,Brazil,Faculdade de Tecnologia - UNICAMP,-22.56472,-47.40167
 9/3/2024 6:13:31,Effelsberg,NRW,Germany,MAX PLANCK INSTITUTE for Radio Astronomy,50.51695,6.86891
 9/4/2024 0:26:51,Nakhon Ratchasima,Nakhon Ratchasima,Thailand,Suranaree University of Technology,14.97066,102.10196
 9/4/2024 15:00:41,Elmhurst,Illinois,United States,Elmhurst University,41.89947,-87.94034
-9/5/2024 2:09:54,Ooty,Tamil Nadu,India,"The GRAPES-3 experiment, Cosmic Ray Laboratory, Tata Institute of Fundamental Research",11.403713,76.708276
+9/5/2024 2:09:54,Ooty,Tamil Nadu,India,"The GRAPES-3 experiment, Cosmic Ray Laboratory, Tata Institute of Fundamental Research",11.4134,76.69521
 9/14/2024 3:00:06,shanghai,shanghai,China,,31.22222,121.45806
-9/18/2024 12:28:38,st. john's,"newfoundland, canada",Canada,DIAG lab at MUN,-15.598419,-51.262687
+9/18/2024 12:28:38,st. john's,"newfoundland, canada",Canada,DIAG lab at MUN,47.56494,-52.70931
 9/20/2024 20:42:55,Oak Ridge,TN,United States,ORNL: ALICE-USA T2 Site,36.01036,-84.26964
-9/30/2024 5:20:24,Darmstadt,,Germany,EUMETSAT,49.921534,8.748549
-10/18/2024 8:43:51,Florianópolis,Santa Catarina,Brazil,RT Medical Systems,-27.595267,-48.541812
-11/27/2024 5:24:21,Freiburg,Baden-Württemberg,Germany,University of Freiburg (ATLAS Tier-2),47.998194,7.834283
-12/18/2024 13:07:06,Mexico City,,Mexico,National Autonomous University of Mexico,19.371422,-99.150344
-1/23/2025 19:30:58,berlin,berlin,Germany,any,52.52045,13.40732
+9/30/2024 5:20:24,Darmstadt,,Germany,EUMETSAT,49.87167,8.65027
+10/18/2024 8:43:51,Florianópolis,Santa Catarina,Brazil,RT Medical Systems,-27.59667,-48.54917
+11/27/2024 5:24:21,Freiburg,Baden-Württemberg,Germany,University of Freiburg (ATLAS Tier-2),47.9959,7.85222
+12/18/2024 13:07:06,Mexico City,,Mexico,National Autonomous University of Mexico,19.28333,-99.13333
+1/23/2025 19:30:58,berlin,berlin,Germany,any,52.52437,13.41053

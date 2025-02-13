@@ -41,7 +41,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/25/2023 3:10:23,Oxford,Oxfordshire,United Kingdom,STFC,51.75222,-1.25596
 5/25/2023 3:36:18,Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,IAP,49.0953,8.39056
 5/25/2023 4:11:10,Graz,Styria,Austria,Graz University of Technology - Institute of Theoretical and Computational Physics,47.06667,15.45
-5/25/2023 4:31:43,Pune,Maharshatra,India,,18.63505269517908,73.6686190888504
+5/25/2023 4:31:43,Pune,Maharshatra,India,,18.525950683726233,73.88662275438367
 5/25/2023 5:00:18,Potsdam-Golm,,Germany,MPI for Gravitational Physics (Albert Einstein Institute),52.39886,13.06566
 5/25/2023 7:05:21,Ann Arbor,Michigan,United States,ATLAS Great Lakes Tier-2 @ UMich,42.27756,-83.74088
 5/25/2023 7:05:44,East Lansing,Michigan,United States,ATLAS Great Lakes Tier-2 @ MSU,42.73698,-84.48387
@@ -90,7 +90,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",14.728458392263478,-61.01690323035479
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.33333,15.75
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.4165,-3.70256
-6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,53.75036732052634,-2.502866346933526
+6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.04649,-2.79988
 6/1/2023 5:16:47,Bristol,,United Kingdom,University of Bristol,51.45523,-2.59665
 6/1/2023 10:20:58,Amsterdam,Noord Holland,Netherlands,Nikhef,52.37403,4.88969
 6/1/2023 14:58:19,Wellington,,New Zealand,GNS Science,-41.28664,174.77557

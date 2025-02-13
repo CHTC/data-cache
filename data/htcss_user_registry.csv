@@ -18,7 +18,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/24/2023 16:00:09,Pasadena,California,United States,LIGO laboratory,34.14778,-118.14452
 5/24/2023 16:03:46,State College,Pennsylvania,United States,Penn State University - LIGO,40.79339,-77.86
 5/24/2023 16:38:57,Urbana,IL,United States,DESDM NCSA,40.11059,-88.20727
-5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,28.44619545,-16.29607035
+5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,27.752237365196965,-18.007223315349723
 5/24/2023 16:53:42,Greenwich,Connecticut,United States,,41.02649,-73.62846
 5/24/2023 17:26:48,Bonn,Northrhine Westfalia,Germany,University of Bonn,50.73438,7.09549
 5/24/2023 20:01:53,Daejeon,,"Korea, South",KISTI-GSDC,36.34913,127.38493
@@ -36,12 +36,12 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/25/2023 1:53:45,Kolkata,West Bengal,India,VECC,22.56263,88.36304
 5/25/2023 2:05:53,Leuven,Vlaams Brabant,Belgium,KULeuven,50.87959,4.70093
 5/25/2023 2:06:25,Gent,Oost-Vlaanderen,Belgium,KULeuven,51.05,3.71667
-5/25/2023 2:42:38,Skipton,North Yorkshire,United Kingdom,JBA Consulting,54.00300676861469,-1.5358715469111883
+5/25/2023 2:42:38,Skipton,North Yorkshire,United Kingdom,JBA Consulting,54.07369,-0.95032
 5/25/2023 2:46:17,Aachen,,Germany,RWTH Physics Dep.,50.77664,6.08342
 5/25/2023 3:10:23,Oxford,Oxfordshire,United Kingdom,STFC,51.75222,-1.25596
 5/25/2023 3:36:18,Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,IAP,49.0953,8.39056
 5/25/2023 4:11:10,Graz,Styria,Austria,Graz University of Technology - Institute of Theoretical and Computational Physics,47.06667,15.45
-5/25/2023 4:31:43,Pune,Maharshatra,India,,18.525950683726233,73.88662275438367
+5/25/2023 4:31:43,Pune,Maharshatra,India,,18.63505269517908,73.6686190888504
 5/25/2023 5:00:18,Potsdam-Golm,,Germany,MPI for Gravitational Physics (Albert Einstein Institute),52.39886,13.06566
 5/25/2023 7:05:21,Ann Arbor,Michigan,United States,ATLAS Great Lakes Tier-2 @ UMich,42.27756,-83.74088
 5/25/2023 7:05:44,East Lansing,Michigan,United States,ATLAS Great Lakes Tier-2 @ MSU,42.73698,-84.48387
@@ -60,7 +60,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/26/2023 16:56:18,DAEJEON,DAEJEON,"Korea, South",KISTI,36.34913,127.38493
 5/27/2023 0:51:12,Los Angeles,CA,United States,UCLA,34.05223,-118.24368
 5/27/2023 1:01:50,Herzliya,,Israel,,32.16627,34.82536
-5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.972586732612672,22.126268666761153
+5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.97258673261267,22.126268666761153
 5/27/2023 7:18:26,Bari,Puglia,Italy,INFN-BARI,41.12066,16.86982
 5/28/2023 7:49:36,Piscataway,New  Jersey,United States,Rutgers Dept. of Physics CMS Tier 3,40.49927,-74.39904
 5/28/2023 10:11:41,Zeuthen,Brandenburg,Germany,"DESY, Zeuthen",52.34481,13.61197
@@ -90,7 +90,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",14.728458392263478,-61.01690323035479
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.33333,15.75
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.4165,-3.70256
-6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.04649,-2.79988
+6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,53.75036732052634,-2.502866346933526
 6/1/2023 5:16:47,Bristol,,United Kingdom,University of Bristol,51.45523,-2.59665
 6/1/2023 10:20:58,Amsterdam,Noord Holland,Netherlands,Nikhef,52.37403,4.88969
 6/1/2023 14:58:19,Wellington,,New Zealand,GNS Science,-41.28664,174.77557

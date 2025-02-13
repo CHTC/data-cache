@@ -18,7 +18,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/24/2023 16:00:09,Pasadena,California,United States,LIGO laboratory,34.14778,-118.14452
 5/24/2023 16:03:46,State College,Pennsylvania,United States,Penn State University - LIGO,40.79339,-77.86
 5/24/2023 16:38:57,Urbana,IL,United States,DESDM NCSA,40.11059,-88.20727
-5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,27.752237365196965,-18.007223315349723
+5/24/2023 16:46:58,La Laguna,Tenerife,Spain,Instituto de Astrofísica de Canarias,28.44619545,-16.29607035
 5/24/2023 16:53:42,Greenwich,Connecticut,United States,,41.02649,-73.62846
 5/24/2023 17:26:48,Bonn,Northrhine Westfalia,Germany,University of Bonn,50.73438,7.09549
 5/24/2023 20:01:53,Daejeon,,"Korea, South",KISTI-GSDC,36.34913,127.38493
@@ -60,7 +60,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/26/2023 16:56:18,DAEJEON,DAEJEON,"Korea, South",KISTI,36.34913,127.38493
 5/27/2023 0:51:12,Los Angeles,CA,United States,UCLA,34.05223,-118.24368
 5/27/2023 1:01:50,Herzliya,,Israel,,32.16627,34.82536
-5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.97258673261267,22.126268666761153
+5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.972586732612672,22.126268666761153
 5/27/2023 7:18:26,Bari,Puglia,Italy,INFN-BARI,41.12066,16.86982
 5/28/2023 7:49:36,Piscataway,New  Jersey,United States,Rutgers Dept. of Physics CMS Tier 3,40.49927,-74.39904
 5/28/2023 10:11:41,Zeuthen,Brandenburg,Germany,"DESY, Zeuthen",52.34481,13.61197
@@ -90,7 +90,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",14.728458392263478,-61.01690323035479
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.33333,15.75
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.4165,-3.70256
-6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,53.75036732052634,-2.502866346933526
+6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,54.04649,-2.79988
 6/1/2023 5:16:47,Bristol,,United Kingdom,University of Bristol,51.45523,-2.59665
 6/1/2023 10:20:58,Amsterdam,Noord Holland,Netherlands,Nikhef,52.37403,4.88969
 6/1/2023 14:58:19,Wellington,,New Zealand,GNS Science,-41.28664,174.77557
@@ -111,7 +111,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 9/27/2023 9:31:09,Aachen,NRW,Germany,,50.77664,6.08342
 11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.40082699545455,27.65626223181818
 12/9/2023 18:57:52,,,Saudi Arabia,,25.0,45.0
-12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,43.599545221080525,-1.4350660915688227
+12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,44.11981779577678,0.015425817117123607
 1/31/2024 11:22:51,,Coquimbo,Chile,,-29.95332,-71.33947
 2/29/2024 12:56:28,Orsay,,France,GRIF,47.10073,1.25154
 2/29/2024 12:57:04,Paris,,France,GRIF,48.85341,2.3488

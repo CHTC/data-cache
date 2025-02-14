@@ -36,7 +36,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/25/2023 1:53:45,Kolkata,West Bengal,India,VECC,22.56263,88.36304
 5/25/2023 2:05:53,Leuven,Vlaams Brabant,Belgium,KULeuven,50.87959,4.70093
 5/25/2023 2:06:25,Gent,Oost-Vlaanderen,Belgium,KULeuven,51.05,3.71667
-5/25/2023 2:42:38,Skipton,North Yorkshire,United Kingdom,JBA Consulting,54.00300676861469,-1.5358715469111883
+5/25/2023 2:42:38,Skipton,North Yorkshire,United Kingdom,JBA Consulting,54.07369,-0.95032
 5/25/2023 2:46:17,Aachen,,Germany,RWTH Physics Dep.,50.77664,6.08342
 5/25/2023 3:10:23,Oxford,Oxfordshire,United Kingdom,STFC,51.75222,-1.25596
 5/25/2023 3:36:18,Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,IAP,49.0953,8.39056
@@ -60,7 +60,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/26/2023 16:56:18,DAEJEON,DAEJEON,"Korea, South",KISTI,36.34913,127.38493
 5/27/2023 0:51:12,Los Angeles,CA,United States,UCLA,34.05223,-118.24368
 5/27/2023 1:01:50,Herzliya,,Israel,,32.16627,34.82536
-5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.972586732612672,22.126268666761153
+5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.97258673261267,22.126268666761153
 5/27/2023 7:18:26,Bari,Puglia,Italy,INFN-BARI,41.12066,16.86982
 5/28/2023 7:49:36,Piscataway,New  Jersey,United States,Rutgers Dept. of Physics CMS Tier 3,40.49927,-74.39904
 5/28/2023 10:11:41,Zeuthen,Brandenburg,Germany,"DESY, Zeuthen",52.34481,13.61197
@@ -101,7 +101,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/2/2023 10:43:04,,Northern Cape province,South Africa,Max Planck Institute for Radioastronomy,-29.5,22.0
 6/2/2023 12:14:54,Münster,,Germany,University of Münster,51.96236,7.62571
 6/5/2023 2:23:25,Stuttgart,Baden-Wuerttemberg,Germany,,48.78232,9.17702
-6/8/2023 9:39:44,Cascina,Pisa,Italy,European Gravitational Observatory,44.58601433222208,8.868779471168384
+6/8/2023 9:39:44,Cascina,Pisa,Italy,European Gravitational Observatory,43.5319226101038,10.66028638407823
 6/9/2023 13:25:22,Seattle,WA,United States,"CHSCC, CHRU, and TIAL (three different groups)",47.60621,-122.33207
 9/16/2023 7:42:06,Nanjing,Jiangsu,China,Nanjing University of Posts and Telecommunications,32.06167,118.77778
 9/20/2023 6:52:25,Prague,Czech Republic,Czech Republic,Institute of Physics of the Czech Academy of Sciences,43.38391316554957,12.3987936128399
@@ -111,7 +111,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 9/27/2023 9:31:09,Aachen,NRW,Germany,,50.77664,6.08342
 11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.40082699545455,27.65626223181818
 12/9/2023 18:57:52,,,Saudi Arabia,,25.0,45.0
-12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,44.11981779577678,0.015425817117123607
+12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,43.599545221080525,-1.4350660915688227
 1/31/2024 11:22:51,,Coquimbo,Chile,,-29.95332,-71.33947
 2/29/2024 12:56:28,Orsay,,France,GRIF,47.10073,1.25154
 2/29/2024 12:57:04,Paris,,France,GRIF,48.85341,2.3488

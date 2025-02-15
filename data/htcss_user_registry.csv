@@ -41,7 +41,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/25/2023 3:10:23,Oxford,Oxfordshire,United Kingdom,STFC,51.75222,-1.25596
 5/25/2023 3:36:18,Eggenstein-Leopoldshafen,Baden-Württemberg,Germany,IAP,49.0953,8.39056
 5/25/2023 4:11:10,Graz,Styria,Austria,Graz University of Technology - Institute of Theoretical and Computational Physics,47.06667,15.45
-5/25/2023 4:31:43,Pune,Maharshatra,India,,18.525950683726233,73.88662275438367
+5/25/2023 4:31:43,Pune,Maharshatra,India,,18.63505269517908,73.6686190888504
 5/25/2023 5:00:18,Potsdam-Golm,,Germany,MPI for Gravitational Physics (Albert Einstein Institute),52.39886,13.06566
 5/25/2023 7:05:21,Ann Arbor,Michigan,United States,ATLAS Great Lakes Tier-2 @ UMich,42.27756,-83.74088
 5/25/2023 7:05:44,East Lansing,Michigan,United States,ATLAS Great Lakes Tier-2 @ MSU,42.73698,-84.48387
@@ -60,7 +60,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 5/26/2023 16:56:18,DAEJEON,DAEJEON,"Korea, South",KISTI,36.34913,127.38493
 5/27/2023 0:51:12,Los Angeles,CA,United States,UCLA,34.05223,-118.24368
 5/27/2023 1:01:50,Herzliya,,Israel,,32.16627,34.82536
-5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.97258673261267,22.126268666761153
+5/27/2023 1:36:16,Carnarvon,"Northern Cape, South Africa",South Africa,Max Planck Institute for Radio Astronomy,-30.972586732612672,22.126268666761153
 5/27/2023 7:18:26,Bari,Puglia,Italy,INFN-BARI,41.12066,16.86982
 5/28/2023 7:49:36,Piscataway,New  Jersey,United States,Rutgers Dept. of Physics CMS Tier 3,40.49927,-74.39904
 5/28/2023 10:11:41,Zeuthen,Brandenburg,Germany,"DESY, Zeuthen",52.34481,13.61197
@@ -109,9 +109,9 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 9/21/2023 10:18:17,Rio de Janeiro,Rio de Janeiro,Brazil,CBPF - Centro Brasileiro de Pesquisas Fisicas,-22.90642,-43.18223
 9/22/2023 7:43:16,Hamburg,Hamburg,Germany,DESY-HH,53.55073,9.99302
 9/27/2023 9:31:09,Aachen,NRW,Germany,,50.77664,6.08342
-11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.40054337458906,27.656275860390434
+11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.40082699545455,27.65626223181818
 12/9/2023 18:57:52,,,Saudi Arabia,,25.0,45.0
-12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,44.11981779577678,0.015425817117123607
+12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,43.599545221080525,-1.4350660915688227
 1/31/2024 11:22:51,,Coquimbo,Chile,,-29.95332,-71.33947
 2/29/2024 12:56:28,Orsay,,France,GRIF,47.10073,1.25154
 2/29/2024 12:57:04,Paris,,France,GRIF,48.85341,2.3488

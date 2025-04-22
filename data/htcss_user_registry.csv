@@ -90,7 +90,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 6/1/2023 1:40:02,Darmstadt,Hessia,Germany,"Center for Structural Materials, TU Darmstadt",14.728458392263478,-61.01690323035479
 6/1/2023 1:50:37,Laxenburg,Niederösterreich,Austria,IIASA,48.33333,15.75
 6/1/2023 2:00:06,Madrid,Madrid,Spain,CIEMAT,40.4165,-3.70256
-6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,53.75036732052634,-2.502866346933526
+6/1/2023 2:49:51,Lancaster,Lancashire,United Kingdom,Lancaster University,53.66396847752105,-2.6314243284949614
 6/1/2023 5:16:47,Bristol,,United Kingdom,University of Bristol,51.45523,-2.59665
 6/1/2023 10:20:58,Amsterdam,Noord Holland,Netherlands,Nikhef,52.37403,4.88969
 6/1/2023 14:58:19,Wellington,,New Zealand,GNS Science,-41.28664,174.77557
@@ -109,7 +109,7 @@ Timestamp,City,"State, Region or Province",Country,Organization Name ( Optional:
 9/21/2023 10:18:17,Rio de Janeiro,Rio de Janeiro,Brazil,CBPF - Centro Brasileiro de Pesquisas Fisicas,-22.90642,-43.18223
 9/22/2023 7:43:16,Hamburg,Hamburg,Germany,DESY-HH,53.55073,9.99302
 9/27/2023 9:31:09,Aachen,NRW,Germany,,50.77664,6.08342
-11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.40082699545455,27.65626223181818
+11/24/2023 12:39:27,Merkez,Muğla,Turkey,Muğla Sıtkı Koçman University,37.06963094361701,27.53734394468086
 12/9/2023 18:57:52,,,Saudi Arabia,,25.0,45.0
 12/28/2023 13:31:00,Beirut,Beirut,Lebanon,HPC4L,43.599545221080525,-1.4350660915688227
 1/31/2024 11:22:51,,Coquimbo,Chile,,-29.95332,-71.33947

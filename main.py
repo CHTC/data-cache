@@ -18,6 +18,11 @@ session.headers.update({'Authorization': f'{os.getenv("RADARIO_API_KEY")}'})
 
 
 def get_location_information(row: pd.Series):
+    """Get Latitude and Longitude from the City, State, and Country"""
+
+    # If we already have the latitude and longitude, return the row
+    if not(pd.isna(row['Latitude']) or pd.isna(row['Longitude'])):
+        return row
 
     city = row['City'] if not pd.isna(row['City']) else ''
     state = row['State, Region or Province'] if not pd.isna(row['State, Region or Province']) else ''
@@ -28,6 +33,10 @@ def get_location_information(row: pd.Series):
         'query': location
     })
     data = response.json()
+
+    # If the response is empty or has no addresses, return the row
+    if not data or 'addresses' not in data or len(data['addresses']) == 0:
+        return row
 
     row['Latitude'] = data['addresses'][0]['latitude']
     row['Longitude'] = data['addresses'][0]['longitude']
@@ -45,8 +54,16 @@ def get_gsheet(url) -> pd.DataFrame:
 
 def main():
 
-    df = get_gsheet(GOOGLE_SHEET_URL)
+    google_df = get_gsheet(GOOGLE_SHEET_URL)
+    previous_df = pd.read_csv(DATA_DIR + FILE_NAME)
+
+    # Join the dataframes on 'Timestamp', 'City', 'State, Region or Province', 'Country'
+    df = pd.merge(google_df, previous_df, on=['Timestamp', 'City', 'State, Region or Province', 'Country', 'Organization Name ( Optional: Add if you want displayed ) '], how='left')
+
     df = df.apply(lambda row: get_location_information(row), axis=1)
+
+    # Drop the columns without Latitude and Longitude
+    df = df.dropna(subset=['Latitude', 'Longitude'])
 
     if not htcss_user_registry_check(df):
         raise Exception("Some rows have invalid latitude and longitude")
@@ -67,6 +84,7 @@ def check_update_has_more_or_equal(df: pd.DataFrame):
 
     previous_df = pd.read_csv(DATA_DIR + FILE_NAME)
     return len(df) >= len(previous_df)
+
 
 if __name__ == "__main__":
     main()
